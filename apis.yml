@@ -10,7 +10,7 @@ description: >-
   Danish, and French markets. Plans is backed by Partech. No public developer API has
   been identified during enrichment; the platform is a login-gated single-page
   application and the site exposes no OpenAPI, SDKs, docs, or developer portal.
-url: https://raw.githubusercontent.com/api-evangelist/plans/refs/heads/main/apis.yml
+url: https://raw.githubusercontent.com/api-evangelist/concept-plans/refs/heads/main/apis.yml
 deliveryModel:
   model: saas
   open_source: false
